@@ -1,0 +1,2 @@
+# Modelling_EEG_signals_using_polynomial_regression
+Modelling EEG signals using polynomial regression
